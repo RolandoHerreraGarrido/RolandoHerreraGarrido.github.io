@@ -1,0 +1,39 @@
+
+
+.estilo1{
+    background-color: aquamarine;
+}
+
+.estilo2{
+    background-color: burlywood;
+}
+
+.estilo3{
+    background-color: green;
+}
+
+.estilo4{
+    background-color: violet;
+}
+
+.opcion{
+    height: 50%;
+}
+
+.seccion-imagen{
+    height: 50px;
+}
+
+.ingredientes{
+    background-color: white;
+    height: 50px;
+}
+
+.preparacion{
+    background-color: white;
+    height: 50px;
+}
+
+.contenedor-receta{
+    border-style: solid;
+}
